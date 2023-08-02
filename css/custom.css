@@ -32,7 +32,7 @@
 }
 
 /* 媒体选择，屏幕过窄则隐藏结尾卡片，需要则取消注释 */
-@media screen and (max-width: 450px) {
+/* @media screen and (max-width: 450px) {
   .business-center{
     display: none!important;
   }
@@ -45,7 +45,7 @@
 
 a,p {
   font-family: consola, ceymw03, sans-serif !important;
-}
+} */
 
 
 /* 滚动条美化*/
@@ -193,7 +193,7 @@ a,p {
 
 /* 自定义twikoo评论输入框高度 */
 .tk-input[data-v-619b4c52] .el-textarea__inner {
-  height: 130px !important;
+  height: 150px !important;
 }
 /* 输入评论时自动隐藏输入框背景图片 */
 .tk-input[data-v-619b4c52] .el-textarea__inner:focus {
