@@ -1939,7 +1939,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: consola, ceymw03;
+  font-family: LXGW WenKai Screen R;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -2087,7 +2087,7 @@ a:hover {
 #site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: fzqkbysjr;
+  font-family: LXGW WenKai Screen R;
 }
 .is-center {
   text-align: center;
@@ -2425,7 +2425,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: consola, ceymw03 !important;
+  font-family: consola, "LXGW WenKai Screen R", "LXGW WenKai Screen", "LXGW WenKai TC", "LXGW WenKai", sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -2773,7 +2773,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: fzqkbysjr;
+  font-family: LXGW WenKai Screen R;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {

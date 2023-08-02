@@ -30,7 +30,11 @@
   src: url(https://npm.elemecdn.com/crazy-image-cyfan-host@0.0.0-ecffa39213a53055452423cdab4c33c87cb17bcaaf45d2cb48cd22e31331bb42);
   font-display: swap;
 }
-
+@font-face{
+  font-family: LXGWWenKaiGBScreenR;
+  src: url(https://doge.42pic.top/fonts/LXGWWenKaiGBScreenR.woff2);
+  font-display: swap;
+}
 /* 媒体选择，屏幕过窄则隐藏结尾卡片，需要则取消注释 */
 /* @media screen and (max-width: 450px) {
   .business-center{
@@ -42,10 +46,10 @@
     font-size: 4em!important;
   }
 }
-
+*/
 a,p {
-  font-family: consola, ceymw03, sans-serif !important;
-} */
+  font-family: "LXGW WenKai Screen R","LXGW WenKai Screen","LXGW WenKai TC","LXGW WenKai", sans-serif !important; /*consola,*/ 
+} 
 
 
 /* 滚动条美化*/
