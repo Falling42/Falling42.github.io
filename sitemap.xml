@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.falling42.net/p/43fcab53.html</loc>
-    
-    <lastmod>2024-01-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.falling42.net/p/4a1ffb66.html</loc>
-    
-    <lastmod>2024-01-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.falling42.net/p/b494bf9.html</loc>
-    
-    <lastmod>2024-01-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.falling42.net/p/c85e9e49.html</loc>
     
     <lastmod>2024-01-18</lastmod>
@@ -120,6 +93,33 @@
   
   <url>
     <loc>https://blog.falling42.net/tags/index.html</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.falling42.net/p/43fcab53.html</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.falling42.net/p/4a1ffb66.html</loc>
+    
+    <lastmod>2024-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.falling42.net/p/b494bf9.html</loc>
     
     <lastmod>2024-01-18</lastmod>
     
