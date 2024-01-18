@@ -6,6 +6,7 @@ https://blog.falling42.net/p/9f710a5d.html
 https://blog.falling42.net/p/7490c8dc.html
 https://blog.falling42.net/about/index.html
 https://blog.falling42.net/categories/index.html
+https://blog.falling42.net/copyright/index.html
 https://blog.falling42.net/essay/index.html
 https://blog.falling42.net/fcircle/index.html
 https://blog.falling42.net/json/music.json
